@@ -1,0 +1,14 @@
+## Questions Tackled in This Project
+
+### Country-Level Analysis
+1. What were the death percentages in each country over time (filterable by specific locations)?
+2. What were the infection percentages (total cases vs. population of each country)?
+3. Which countries had the highest infection percentages?
+4. What percentage of the population was vaccinated in each country?
+
+### Global Analysis
+1. What percentage of the global population died from COVID-19?
+2. What were the global death percentages over time (day by day)?
+
+### Continent-Level Analysis
+1. What were the death percentages by continent over time?
